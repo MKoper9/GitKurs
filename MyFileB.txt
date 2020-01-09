@@ -1,4 +1,2 @@
-First line
 FIGING BUG
-Second line
 Implementing new feature....
