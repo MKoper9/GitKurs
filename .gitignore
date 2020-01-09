@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 *.dll
 bin/
+=======
+bin/*
+*.dll
+>>>>>>> feature/update/actors-data
